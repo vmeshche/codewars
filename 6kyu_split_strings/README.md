@@ -1,4 +1,4 @@
-# "Descending Order" by TastyOs
+# "Split Strings" by jhoffner
 
 https://www.codewars.com/kata/515de9ae9dcfc28eb6000001
 
