@@ -2,10 +2,11 @@
 
 https://www.codewars.com/kata/52774a314c2333f0a7000688
 
-###Details:  
+### Details:  
 Write a function that takes a string of parentheses, and determines if the order of the parentheses is valid. The function should return true if the string is valid, and false if it's invalid.
 
-####Examples
+#### Examples
+
 `
 "()"              =>  true
 `
@@ -22,7 +23,7 @@ Write a function that takes a string of parentheses, and determines if the order
 "(())((()())())"  =>  true
 `
 
-####Constraints
+#### Constraints
 `
 0 <= input.length <= 100
 `
